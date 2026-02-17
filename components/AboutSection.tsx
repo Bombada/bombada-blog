@@ -15,6 +15,7 @@ const AboutSection: React.FC = () => {
         role: "Backend Engineer | Digital Twin Platform",
         summary: "A Backend Engineer who drives results through system redesign and observability improvements in high-traffic and cost-sensitive environments. I ask, 'Why don't we try changing this first?' to solve fundamental problems.",
         contact: {
+          phone: "010-4042-3550",
           email: "rudxoghd@naver.com", 
           portfolio: "Portfolio Link"
         }

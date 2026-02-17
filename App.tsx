@@ -41,6 +41,7 @@ const App: React.FC = () => {
   // Configuration based on current page
   let splineUrl = 'https://my.spline.design/distortingtypography-k7bpgxy1uQC0eBoVPPvmW5TM/'; // Default Home
   if (isBombada) {
+    // Updated Spline URL for Music/Bombada category as requested
     splineUrl = 'https://my.spline.design/xmaskcopycopy-ejrFwi0O59qAC0Cg3JoRhi3I-sYg/';
   } else if (isDevelopment) {
     splineUrl = 'https://my.spline.design/100followers-VcQDcKnU2XVZQRwKPMLaYiLI/';
